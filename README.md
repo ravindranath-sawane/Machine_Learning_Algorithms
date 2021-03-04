@@ -8,3 +8,7 @@ Here is the list of commonly used machine learning algorithms. These algorithms 
 # Classification Models
 1. Decision Tree
 2. Random Forest
+
+# Clustering Models
+1. K Means Clustering
+2. 
