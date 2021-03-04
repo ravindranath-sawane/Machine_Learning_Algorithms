@@ -1,4 +1,4 @@
-# Machine_Learning_Algorithms
+<h1 align="center">Machine Learning Algorithms</h1>
 Here is the list of commonly used machine learning algorithms. These algorithms can be applied to almost any data problem:
 
 # Regression Models
