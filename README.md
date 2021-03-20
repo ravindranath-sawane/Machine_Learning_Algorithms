@@ -26,9 +26,13 @@ List of commonly used machine learning algorithms. These algorithms can be appli
 8. Random Forest
 9. Dimensionality Reduction Algorithms
 10. Gradient Boosting algorithms
+
         a. GBM
+        
         b. XGBoost
+        
         c. LightGBM
+        
         d. CatBoost
 
 # Regression Models
