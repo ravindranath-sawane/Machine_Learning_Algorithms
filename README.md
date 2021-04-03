@@ -47,3 +47,4 @@ List of commonly used machine learning algorithms. These algorithms can be appli
 # Clustering Models
 1. K Means Clustering
 2. Hirarchical Clustering
+3. Spectral Clustering
