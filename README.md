@@ -4,7 +4,8 @@ The prevalence of machine learning has been increasing tremendously in recent ye
 There is a wide variety of machine learning algorithms that can be grouped in three main categories:
 # Supervised learning 
 In this algorithms model the relationship between features (independent variables) and a label (target) given a set of observations. Then the model is used to predict the label of new observations using the features. Depending on the characteristics of target variable, it can be a classification (discrete target variable) or a regression (continuous target variable) task.
-# Unsupervised learning algorithms try to find the structure in unlabeled data.
+# Unsupervised learning algorithms 
+They try to find the structure in unlabeled data.
 # Reinforcement learning algorithms
 They works based on an action-reward principle. An agent learns to reach a goal by iteratively calculating the reward of its actions.
 
