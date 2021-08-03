@@ -1,5 +1,16 @@
 <h1 align="center">Machine Learning Algorithms</h1>
 
+The prevalence of machine learning has been increasing tremendously in recent years due to the high demand and advancements in technology. The potential of machine learning to create value out of data has made it appealing for businesses in many different industries. Most machine learning products are designed and implemented with off-the-shelf machine learning algorithms with some tuning and minor changes.
+There is a wide variety of machine learning algorithms that can be grouped in three main categories:
+# Supervised learning 
+In this algorithms model the relationship between features (independent variables) and a label (target) given a set of observations. Then the model is used to predict the label of new observations using the features. Depending on the characteristics of target variable, it can be a classification (discrete target variable) or a regression (continuous target variable) task.
+# Unsupervised learning algorithms try to find the structure in unlabeled data.
+# Reinforcement learning algorithms
+They works based on an action-reward principle. An agent learns to reach a goal by iteratively calculating the reward of its actions.
+
+
+In this repository, I will cover the most common algorithms in the all categories. In further notes types are explained with definition.
+
 # Broadly there are 3-types of Machine Learning Algorithms
 # 1. Supervised Learning
 How it works: This algorithm consist of a target / outcome variable (or dependent variable) which is to be predicted from a given set of predictors (independent variables). Using these set of variables, we generate a function that map inputs to desired outputs. The training process continues until the model achieves a desired level of accuracy on the training data. Examples of Supervised Learning: Regression, Decision Tree, Random Forest, KNN, Logistic Regression etc.
