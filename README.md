@@ -1,7 +1,7 @@
 <h1 align="center">Machine Learning Algorithms</h1>
 
 The prevalence of machine learning has been increasing tremendously in recent years due to the high demand and advancements in technology. The potential of machine learning to create value out of data has made it appealing for businesses in many different industries. Most machine learning products are designed and implemented with off-the-shelf machine learning algorithms with some tuning and minor changes.
-There is a wide variety of machine learning algorithms that can be grouped in three main categories:
+# There is a wide variety of machine learning algorithms that can be grouped in three main categories:
 # Supervised learning algorithms 
 In this algorithms model the relationship between features (independent variables) and a label (target) given a set of observations. Then the model is used to predict the label of new observations using the features. Depending on the characteristics of target variable, it can be a classification (discrete target variable) or a regression (continuous target variable) task.
 # Unsupervised learning algorithms 
